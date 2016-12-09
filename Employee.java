@@ -1,7 +1,7 @@
 /*
  * Practical Exercise 3 developed by Diego Rivera for Programming Fundamentals class.
  * 25/08/2016
- * Professor Rachel Jeikishore
+ * Professor -----------
  * This java file is the class to employee object.
  */
 
